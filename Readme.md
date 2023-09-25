@@ -71,7 +71,7 @@ calculatorUtil.subtract(20, 30);
 
 Notice that the the *auto-barrel-sync* use the name you added when you create an object to export your functions.
 
-### Se more examples of usage bellow:
+### See more examples of usage bellow:
 
 ```javascript
 
