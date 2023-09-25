@@ -1,7 +1,7 @@
 ##  Auto Barrel Sync
-[License](https://img.shields.io/badge/license-MIT-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
-[npm version](https://badge.fury.io/js/my-package.svg)
+![npm version](https://badge.fury.io/js/my-package.svg)
 
 ### Description
 
