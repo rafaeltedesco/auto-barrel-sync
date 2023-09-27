@@ -1,21 +1,21 @@
 ##  Auto Barrel Sync
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
-![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.6&x2=0)
+![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.7&x2=0)
 
 ### Description
 
 *auto-barrel-sync* is a Node.js module that simplifies the process of auto-generating a barrel file for your project. A barrel file is used to consolidate and export multiple modules from different folders, making it easier to import them in other parts of your application.
 
 ### Installation
-You can install My Package using npm:
+You can install *auto-barrel-sync* using npm:
 
 ```bash
 npm install auto-barrel-sync
 ```
 
 ### Usage
-To use My Package in your Node.js project, follow these steps:
+To use *auto-barrel-sync* in your Node.js project, follow these steps:
 
 1 - Create your desired folder structure inside *src*. 
 
