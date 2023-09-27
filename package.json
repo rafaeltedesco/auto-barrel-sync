@@ -1,6 +1,6 @@
 {
   "name": "auto-barrel-sync",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "This module helps you to create barrel files for your application",
   "main": "src/index.js",
   "scripts": {
