@@ -7,11 +7,18 @@
     "start": "node .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "homepage": "https://github.com/rafaeltedesco/auto-barrel-sync#readme",
+  "bugs": {
+    "url": "https://github.com/rafaeltedesco/auto-barrel-sync/issues",
+    "email": "dev.rafaeltedesco@gmail.com"
+  },
   "keywords": [
     "barrel",
     "auto barrel",
     "automation",
-    "modules"
+    "modules",
+    "module",
+    "commonjs"
   ],
   "author": "Rafael Tedesco",
   "license": "ISC"

@@ -1,7 +1,7 @@
 ##  Auto Barrel Sync
 ![License](https://img.shields.io/badge/license-ISC-blue.svg)
 
-![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.8&x2=0)
+![npm version](https://d25lcipzij17d.cloudfront.net/badge.svg?id=js&r=r&ts=1683906897&type=6e&v=1.0.9&x2=0)
 
 ### Description
 
@@ -97,5 +97,3 @@ Node.js: The JavaScript runtime used to build this package.
 
 ### Author
 [Rafael Tedesco](https://github.com/rafaeltedesco)
-
-Feel free to customize this README to include additional information that is relevant to your package and its usage. Providing clear instructions and documentation will help users understand and use your package effectively.
